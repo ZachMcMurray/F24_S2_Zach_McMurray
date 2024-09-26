@@ -17,7 +17,7 @@ import org.json.JSONObject;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
-
+//this game sucks
 
 public class MainActivity extends AppCompatActivity {
 
